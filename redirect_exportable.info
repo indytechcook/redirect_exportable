@@ -1,0 +1,6 @@
+name = Redirect Exportable
+description = Adds exportablilty to the redirect module.
+core = 7.x
+files[] = redirect_exportable.module
+dependencies[] = entity
+dependencies[] = redirect
